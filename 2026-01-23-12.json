@@ -1,8 +1,8 @@
 {
   "mode": "prod",
-  "timestamp": "2026-01-23T12:34:10.313Z",
+  "timestamp": "2026-01-23T12:34:57.603Z",
   "anchorCommit": null,
-  "previousAnchorCommit": "2a2cf8d051df4e1be1e53632aad45d77df43ff2d",
+  "previousAnchorCommit": "0cdd25dd9a0bab5d46f2491cd7adb812f4d087eb",
   "anchors": [
     {
       "projectId": "46d86a7a-80e7-4a43-80c3-2d15cbf2d183",
@@ -16,8 +16,8 @@
     },
     {
       "projectId": "f3f34e40-a881-4fc4-aea2-a416b0a485d3",
-      "lastSequence": 1,
-      "lastChainHash": "7a81e506da31df6d9a863ae6d0c2352b45c21e506545258f67e08d6ba30541ca"
+      "lastSequence": 2,
+      "lastChainHash": "299101299d56317e89b2876e0748cb09dd99a57ee9a113f41094c93984c2c0e7"
     },
     {
       "projectId": "3efa202f-beeb-41d2-9c69-53b1c7336696",
