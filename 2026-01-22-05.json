@@ -1,0 +1,16 @@
+{
+  "mode": "dev",
+  "timestamp": "2026-01-22T05:46:27.926Z",
+  "projects": [
+    {
+      "projectId": "1",
+      "lastSequence": 0,
+      "lastChainHash": "GENESIS"
+    },
+    {
+      "projectId": "46d86a7a-80e7-4a43-80c3-2d15cbf2d183",
+      "lastSequence": 4,
+      "lastChainHash": "a5323e6e01a0ba7a5d4e71e390e2518ece88ffce70b9155dff1f9aa40b5edb89"
+    }
+  ]
+}

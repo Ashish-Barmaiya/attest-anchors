@@ -1,0 +1,21 @@
+{
+  "mode": "dev",
+  "timestamp": "2026-01-22T06:59:46.328Z",
+  "anchors": [
+    {
+      "projectId": "1",
+      "lastSequence": 0,
+      "lastChainHash": "GENESIS"
+    },
+    {
+      "projectId": "46d86a7a-80e7-4a43-80c3-2d15cbf2d183",
+      "lastSequence": 5,
+      "lastChainHash": "143afdebe80d323c882718b3863254051b0c034b9ec4ccc6a61b20e534915a67"
+    },
+    {
+      "projectId": "4fe7f974-adb2-4bba-93a9-3fe31e35e2cb",
+      "lastSequence": 2,
+      "lastChainHash": "a3878ff736527f25b0c088ebfe978baa1c616355cecc8f8956d1614a8b30f5c6"
+    }
+  ]
+}

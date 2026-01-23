@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-01-22T04:51:06.700Z",
+  "anchorCommit": null,
+  "previousAnchorCommit": null,
+  "anchors": [
+    {
+      "projectId": "1",
+      "lastSequence": 0,
+      "lastChainHash": "GENESIS"
+    }
+  ]
+}
