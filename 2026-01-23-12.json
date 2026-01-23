@@ -1,0 +1,28 @@
+{
+  "mode": "prod",
+  "timestamp": "2026-01-23T12:00:56.381Z",
+  "anchorCommit": null,
+  "previousAnchorCommit": "059a56b33ec6b4000efcf8d7768fc1ee16b5043e",
+  "anchors": [
+    {
+      "projectId": "46d86a7a-80e7-4a43-80c3-2d15cbf2d183",
+      "lastSequence": 5,
+      "lastChainHash": "143afdebe80d323c882718b3863254051b0c034b9ec4ccc6a61b20e534915a67"
+    },
+    {
+      "projectId": "4fe7f974-adb2-4bba-93a9-3fe31e35e2cb",
+      "lastSequence": 2,
+      "lastChainHash": "a3878ff736527f25b0c088ebfe978baa1c616355cecc8f8956d1614a8b30f5c6"
+    },
+    {
+      "projectId": "f3f34e40-a881-4fc4-aea2-a416b0a485d3",
+      "lastSequence": 1,
+      "lastChainHash": "7a81e506da31df6d9a863ae6d0c2352b45c21e506545258f67e08d6ba30541ca"
+    },
+    {
+      "projectId": "3efa202f-beeb-41d2-9c69-53b1c7336696",
+      "lastSequence": 1,
+      "lastChainHash": "7a81e506da31df6d9a863ae6d0c2352b45c21e506545258f67e08d6ba30541ca"
+    }
+  ]
+}
