@@ -1,0 +1,73 @@
+{
+  "mode": "prod",
+  "timestamp": "2026-01-25T11:49:54.095Z",
+  "anchorCommit": null,
+  "previousAnchorCommit": "9bfd1631ece13d891dc8b9360abe057d8393f4f3",
+  "anchors": [
+    {
+      "projectId": "46d86a7a-80e7-4a43-80c3-2d15cbf2d183",
+      "lastSequence": 5,
+      "lastChainHash": "143afdebe80d323c882718b3863254051b0c034b9ec4ccc6a61b20e534915a67"
+    },
+    {
+      "projectId": "4fe7f974-adb2-4bba-93a9-3fe31e35e2cb",
+      "lastSequence": 2,
+      "lastChainHash": "a3878ff736527f25b0c088ebfe978baa1c616355cecc8f8956d1614a8b30f5c6"
+    },
+    {
+      "projectId": "f3f34e40-a881-4fc4-aea2-a416b0a485d3",
+      "lastSequence": 4,
+      "lastChainHash": "aa60300b2ed2eda7dbf4231c3e0b2a9cbd114c53b781119e65270521e6c09578"
+    },
+    {
+      "projectId": "3efa202f-beeb-41d2-9c69-53b1c7336696",
+      "lastSequence": 1,
+      "lastChainHash": "7a81e506da31df6d9a863ae6d0c2352b45c21e506545258f67e08d6ba30541ca"
+    },
+    {
+      "projectId": "test-chain-f311b54d-6704-4a62-b653-77d0590a74d6",
+      "lastSequence": 0,
+      "lastChainHash": ""
+    },
+    {
+      "projectId": "test-chain-777e5b9a-2a6f-4d7d-ad62-171af8a16e14",
+      "lastSequence": 0,
+      "lastChainHash": ""
+    },
+    {
+      "projectId": "test-chain-a122bd8a-1b97-4489-b0ef-32feb1e32825",
+      "lastSequence": 0,
+      "lastChainHash": ""
+    },
+    {
+      "projectId": "test-chain-bef0aa91-e143-437f-92d7-90be58881927",
+      "lastSequence": 0,
+      "lastChainHash": ""
+    },
+    {
+      "projectId": "test-chain-384294b9-6aa4-455a-9bc1-1dae476e0ee2",
+      "lastSequence": 0,
+      "lastChainHash": ""
+    },
+    {
+      "projectId": "test-chain-bbbe69a0-eea9-435b-a415-98d6275d9edd",
+      "lastSequence": 0,
+      "lastChainHash": ""
+    },
+    {
+      "projectId": "test-chain-6b3da006-afe5-495b-bf0f-c546ffe41cf1",
+      "lastSequence": 0,
+      "lastChainHash": "GENESIS"
+    },
+    {
+      "projectId": "test-chain-90db85c6-cfc7-4a60-b81d-2a8149ff8c54",
+      "lastSequence": 0,
+      "lastChainHash": "GENESIS"
+    },
+    {
+      "projectId": "abebda04-049c-47c9-8d97-540993287fa8",
+      "lastSequence": 0,
+      "lastChainHash": "GENESIS"
+    }
+  ]
+}
