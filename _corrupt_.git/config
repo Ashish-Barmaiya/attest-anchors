@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = Attest Anchor Bot
+	email = bot@attest.dev
+[remote "origin"]
+	url = https://github.com/Ashish-Barmaiya/attest-anchors.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
